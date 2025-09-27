@@ -6,4 +6,4 @@ Me gusta programar
 
 Editamos y añadimos una linea al repositorio
 
-practica
+clase 2 practica
